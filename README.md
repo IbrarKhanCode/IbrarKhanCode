@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I am Ibrar Khan</h1>
+ <h1 align="center">Hi 👋, I am Muhammad Ibrar</h1>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
