@@ -1,10 +1,6 @@
-<!-- Header -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Muhammad%20Ibrar&fontSize=70&fontColor=fff&animation=twinkling" />
-</div>
-
-<h1 align="center">👋 Hi, I'm <span style="color:#00BCD4; font-weight:bold;">Muhammad Ibrar</span> 🚀</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Muhammad%20Ibrar&fontSize=38&fontColor=00BCD4&height=80" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Flutter+%26+Dart+Enthusiast;Firebase+Integration+Specialist;Building+Stunning+Cross-Platform+Apps;Aspiring+Full-Stack+Mobile+Developer;Turning+Ideas+into+Reality+One+Widget+at+a+Time!" />
@@ -69,9 +65,3 @@
 ## ⚡ Fun Fact
 
 > I love turning complex problems into simple Flutter widgets 😄
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
