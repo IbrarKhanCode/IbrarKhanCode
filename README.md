@@ -1,67 +1,148 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Muhammad%20Ibrar&fontSize=38&fontColor=00BCD4&height=80" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Flutter+%26+Dart+Enthusiast;Firebase+Integration+Specialist;Building+Stunning+Cross-Platform+Apps;Aspiring+Full-Stack+Mobile+Developer;Turning+Ideas+into+Reality+One+Widget+at+a+Time!" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,0BF7B0,00BCD4&height=200&section=header&text=Muhammad%20Ibrar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%26%20Firebase%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=0BF7B0&center=true&vCenter=true&width=700&height=55&lines=🚀+Building+cross-platform+apps+with+Flutter;🔥+Firebase+%7C+Firestore+%7C+Authentication+%7C+Storage;🎯+Clean+Architecture+%7C+Scalable+Code;💡+Turning+ideas+into+real+products;⚡+One+widget+at+a+time..." />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/IbrarKhanCode">
+    <img src="https://img.shields.io/badge/GitHub-IbrarKhanCode-0D1117?style=for-the-badge&logo=github&logoColor=0BF7B0" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-ibrar-33996531b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ibrar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ibrarkhan431414@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ibrarkhan431414-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-* 🔭 Currently working on **Flutter Mobile Applications**
-* 🌱 Learning **Backend Development** to become a full-stack developer
-* 💬 Ask me anything about **Flutter, Dart & Firebase**
-* 🎯 Goal: Build scalable, secure & high-performance apps
-* 📫 Reach me at **[ibrarkhan431414@gmail.com](mailto:ibrarkhan431414@gmail.com)**
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+```dart
+class MuhammadIbrar extends FlutterDeveloper {
+  
+  final String location   = "Pakistan 🇵🇰";
+  final String focus      = "Mobile & Cross-Platform Apps";
+  
+  final List<String> currentlyDoing = [
+    "📱 Building Flutter mobile apps",
+    "🔥 Integrating Firebase services",
+    "📚 Learning backend development",
+    "🏗️ Studying clean architecture",
+  ];
+
+  final Map<String, String> goals = {
+    "Short-term" : "Full-Stack Flutter Dev",
+    "Long-term"  : "Scalable product builder",
+    "Philosophy" : "Code. Ship. Iterate. 🚀",
+  };
+
+  String get funFact =>
+    "Complex problems = simple widgets 😄";
+}
+```
+
+<br clear="right"/>
 
 ---
 
-## 🤝 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/IbrarKhanCode" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-ibrar-33996531b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ibrarkhan431414@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+### Mobile & Frontend
 
-## 🛠️ Languages & Tools
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,html,css" />
-</p>
+### Backend & Cloud
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Firestore-FF6D00?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+### Tools & Workflow
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0BF7B0" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrarKhanCode&show_icons=true&theme=dark" height="180" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrarKhanCode&theme=dark" height="180" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrarKhanCode&layout=compact&theme=merko&bg_color=0D1117&title_color=0BF7B0&text_color=c9d1d9&border_color=30363d" height="180" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrarKhanCode&theme=merko&background=0D1117&ring=0BF7B0&fire=00BCD4&currStreakLabel=0BF7B0&border=30363d" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrarKhanCode&bg_color=0D1117&color=0BF7B0&line=00BCD4&point=ffffff&area=true&area_color=0BF7B060&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
 ## 🚀 What I'm Working On
 
-* 📱 Flutter apps with clean UI & scalable architecture
-* 🔥 Firebase Authentication, Firestore & Storage
-* 🔐 Learning secure backend & API integration
+<div align="center">
+
+| Area             | Focus                              |    Status   |
+| :--------------- | :--------------------------------- | :---------: |
+| 📱 Flutter Apps  | Clean UI + scalable architecture   |  🟢 Active  |
+| 🔥 Firebase      | Auth, Firestore, Cloud Storage     |  🟢 Active  |
+| 🔐 Backend       | Secure APIs & server integration   | 🟡 Learning |
+| 🏗️ Architecture | BLoC, Provider, Clean Architecture | 🟡 Learning |
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 📈 Skill Progress
 
-> I love turning complex problems into simple Flutter widgets 😄
+```
+Flutter      ████████████████████░░  90%
+Dart         ████████████████████░░  88%
+Firebase     ██████████████████░░░░  82%
+Git/GitHub   ████████████████░░░░░░  74%
+HTML/CSS     ████████████████░░░░░░  72%
+Backend Dev  ████████░░░░░░░░░░░░░░  38%
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BCD4,0BF7B0,0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<br/>
+
+**Thanks for visiting! Let's build something amazing together. 🚀**
+
+</div>
